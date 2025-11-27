@@ -35,17 +35,3 @@ The goal was to build a system that suggests movies based on user behavior. I im
 * **KNN** provided the most precise "exact match" recommendations.
 * **SVD** provided broader "conceptual" matches by reducing noise.
 
-## 📦 How to Run
-1.  Clone the repo:
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/movie-recommender.git](https://github.com/YOUR_USERNAME/movie-recommender.git)
-    ```
-2.  Install requirements:
-    ```bash
-    pip install pandas numpy scikit-learn scipy matplotlib seaborn
-    ```
-3.  Download `ml-latest-small` from GroupLens and extract `movies.csv` and `ratings.csv` to the root.
-4.  Run the notebook:
-    ```bash
-    jupyter notebook recommender_system_main.ipynb
-    ```
