@@ -35,3 +35,4 @@ The goal was to build a system that suggests movies based on user behavior. I im
 * **KNN** provided the most precise "exact match" recommendations.
 * **SVD** provided broader "conceptual" matches by reducing noise.
 
+ 
